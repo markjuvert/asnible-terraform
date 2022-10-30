@@ -9,10 +9,3 @@
    like so "terraform init -backend=false"
 ```
 
-## GENERAL NOTE:
-
-```
-The templates in this folder are meant to be used in the ACG Hands-on lab, however it should 
-work in any AWS account, given that the above 3 conditions are met. However this has not been tested
-extensively and author gives no guarantees for it.
-```
